@@ -11,20 +11,20 @@ def Axak(xak):
 
 logo =                                          ("""   
 \033[1;92m
-         __  ___         __
-        /  |/  /__  ____/ (_)___ _
-       / /|_/ / _ \/ __  / / __ `/
-      / /  / /  __/ /_/ / / /_/ /
-     /_/  /_/\___/\__,_/_/\__,_/
+    ____  __  ___   ___   ____  __
+   / __ )/ / / / | / / | / /\ \/ /
+  / __  / / / /  |/ /  |/ /  \  /
+ / /_/ / /_/ / /|  / /|  /   / /
+/_____/\____/_/ |_/_/ |_/   /_/
                                                                                                                                                                                       
 
 \033[1;91m\033[1;41m\033[1;97m              WELCOME TO SMS BOOMBING TOOLS               \033[;0m\033[1;91m\033[1;92m
 
 
 \033[1;32m[-] TOOLS TYPE:\033[1;32m FREE
-\033[1;32m[-] AUTHOR    :\033[1;32m Md. Murad Hasan Media
-\033[1;32m[-] GITHUB    :\033[1;32m mdmuradhasanmedia 
-\033[1;32m[-] FACEBOOK  :\033[1;32m Md. Murad Hasan Media 
+\033[1;32m[-] AUTHOR    :\033[1;32m BUNNY
+\033[1;32m[-] GITHUB    :\033[1;32m BUNNYSUDIN
+\033[1;32m[-] FACEBOOK  :\033[1;32m BUNNY
 
 """)
 
@@ -88,8 +88,8 @@ print(logo)
 x="XAK"
 user=str(input(f"\n{g}USERNAME FOR  (INBOX-ME) \n \n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"\n{g}PASSWORD FOR (INBOX ME) \n \n{w}PASSWORD {r}=>{y} "))
-rp= 'SAMIR'
-x = '143'
+rp= 'BUNNY'
+x = 'BUNNY'
 if 'MEDIA'==user and 'ATIYA'==pas:
 	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL FOLLOW ME IN FACEBOOK ")
 	os.system('xdg-open https://facebook.com/mdmuradhasanmedia')
