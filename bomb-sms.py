@@ -90,7 +90,7 @@ user=str(input(f"\n{g}USERNAME FOR  (INBOX-ME) \n \n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"\n{g}PASSWORD FOR (INBOX ME) \n \n{w}PASSWORD {r}=>{y} "))
 rp= 'BUNNY'
 x = 'BUNNY'
-if 'MEDIA'==user and 'ATIYA'==pas:
+if 'BUNNY'==user and 'BUNNY'==pas:
 	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL FOLLOW ME IN FACEBOOK ")
 	os.system('xdg-open https://facebook.com/mdmuradhasanmedia')
 else:
